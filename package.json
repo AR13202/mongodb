@@ -18,6 +18,6 @@
   "homepage": "https://github.com/iamshaunjp/complete-mongodb#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "mongodb": "^4.4.1"
+    "mongodb": "^4.17.1"
   }
 }
